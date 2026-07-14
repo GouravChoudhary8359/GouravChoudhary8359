@@ -1,9 +1,10 @@
-# Hi, I'm Gourav 👋
+# 👋 Hi, I'm Gourav Choudhary
 
-🚀 **Backend Developer | Java + Spring Boot | Exploring Generative AI**
+🎓 College Student | 💻 Aspiring Backend Developer | 🚀 Exploring DSA & Generative AI  
 
 ---
-### 🛠 Tech Stack
+
+## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -15,29 +16,29 @@
 
 ---
 
-### 📂 Projects
-- [journalApp_RestAPI](https://github.com/GouravChoudhary8359/journalApp_RestAPI) – REST API backend for journal entries  
-- [journalRestAPI](https://github.com/GouravChoudhary8359/journalRestAPI) – Another REST API project with Spring Boot  
+## 📂 Projects
+
+- [DSA Practice](https://github.com/GouravChoudhary8359/DSA-Practice)
+- [Spring Boot REST API](https://github.com/GouravChoudhary8359/SpringBoot-REST-API)
 
 ---
 
-### 🌱 Currently Learning
-- Data Structures & Algorithms (Java)  
-- Advanced Spring Boot  
-- Generative AI & ML  
+## 📊 GitHub Stats
+
+![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GouravChoudhary8359&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravChoudhary8359&layout=compact&theme=radical)
 
 ---
 
-### 📊 GitHub Stats
-![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravChoudhary8359&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravChoudhary8359&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=GouravChoudhary8359&theme=radical)
+## 📫 Connect with Me
 
----
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](edin.com/in/gourav-choudhary-3216ba341?utm_source=share_via&utm_content=profile&utm_medium=member_and>/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravchoudhary1481@gmail.com )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gourav-choudhary-3216ba341?utm_source=share_via&utm_content=profile&utm_medium=member_android/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravchoudhary1481@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/GouravChoudhary8359)
 
-⚡ *Fun fact: I debug with chai ☕*
+---
+
+## ⚡ Fun Fact
+
+I debug with chai ☕
+
