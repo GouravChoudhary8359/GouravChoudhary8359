@@ -37,14 +37,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GouravChoudhary8359&theme=radical)
 
 ---
-
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/gourav-choudhary-3216ba341?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-- Email: gouravchoudhary1481@gmail.com 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/<tera-username>/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](edin.com/in/gourav-choudhary-3216ba341?utm_source=share_via&utm_content=profile&utm_medium=member_and>/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravchoudhary1481@gmail.com )
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/GouravChoudhary8359)
 
 ⚡ *Fun fact: I debug with chai ☕*
