@@ -22,11 +22,12 @@
 - [Spring Boot REST API](https://github.com/GouravChoudhary8359/SpringBoot-REST-API)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GouravChoudhary8359&show_icons=true&theme=radical)
+![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravChoudhary8359&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravChoudhary8359&layout=compact&theme=radical)
+
 
 ---
 
