@@ -28,7 +28,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravChoudhary8359&layout=compact&theme=radical)
 
-
 ---
 
 ## 📫 Connect with Me
